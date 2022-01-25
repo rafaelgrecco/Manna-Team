@@ -78,4 +78,14 @@ Após isso o software vai abrir com o código, a tela exibida será semelhante a
 
 ![cod4](images/cod04.jpeg)
 
-E pronto, cheagamos ao fim desse tutorial
+E pronto, cheagamos ao fim desa etapa
+
+# Instalação do Software para abrir o jogo
+
+O primeiro passo é fazer o download do software que vamos utilizar:
+[CLIQUE AQUI PARA FAZER O DOWNLOAD](https://github.com/processing/processing4/releases/download/processing-1279-4.0b4/processing-4.0b4-windows-x64.zip)
+
+Em seguida, vamos fazer o download dos arquivos necessários:
+[DOWNLOAD-ARQUIVOS](https://drive.google.com/drive/folders/1TYKsbQIXURjTJvifahkukDkUCzYqxxdg?usp=sharing)
+
+
