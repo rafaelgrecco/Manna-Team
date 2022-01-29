@@ -83,7 +83,7 @@ E pronto, cheagamos ao fim desa etapa
 # Instalação do Software para abrir o jogo
 
 O primeiro passo é fazer o download do software que vamos utilizar:
-[CLIQUE AQUI PARA FAZER O DOWNLOAD](https://github.com/processing/processing4/releases/download/processing-1279-4.0b4/processing-4.0b4-windows-x64.zip)
+[CLIQUE AQUI PARA FAZER O DOWNLOAD](https://github.com/processing/processing/releases/download/processing-0270-3.5.4/processing-3.5.4-windows64.zip)
 
 Em seguida, vamos fazer o download dos arquivos necessários:
 [DOWNLOAD-ARQUIVOS](https://drive.google.com/drive/folders/1TYKsbQIXURjTJvifahkukDkUCzYqxxdg?usp=sharing)
